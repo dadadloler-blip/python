@@ -1,0 +1,2 @@
+0 funghi non velenosi
+1 funghi velenosi
